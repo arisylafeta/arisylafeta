@@ -10,8 +10,6 @@
   <a href="https://www.linkedin.com/in/arianitsylafeta"><img src="https://img.shields.io/badge/LinkedIn-%40arianitsylafeta-18181B?style=flat-square&labelColor=FAFAFA&color=E4E4E7" alt="LinkedIn @arianitsylafeta" /></a>
 </p>
 
-## Hi there 👋
-
 I'm **Arianit Sylafeta**, a founder and hands-on builder working at the edge of product, engineering, and AI systems. I'm currently CTO at **ReBattery**, where I help make the battery market more liquid through better data, clearer workflows, and practical AI.
 
 ```txt

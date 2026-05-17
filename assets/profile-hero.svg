@@ -1,0 +1,74 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arianit Sylafeta profile hero</title>
+  <desc id="desc">A dark futuristic GitHub profile banner for an AI-native product builder.</desc>
+  <defs>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(232 93) rotate(33) scale(468 345)">
+      <stop stop-color="#7C3AED" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#2563EB" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1005 293) rotate(159) scale(468 302)">
+      <stop stop-color="#06B6D4" stop-opacity="0.85"/>
+      <stop offset="0.48" stop-color="#7C3AED" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="167" y1="67" x2="1039" y2="371" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0.72"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="87" x2="1003" y2="351" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="blur" x="-40" y="-40" width="1280" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="34" fill="#020617"/>
+  <rect width="1200" height="420" rx="34" fill="url(#glowA)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#glowB)"/>
+
+  <g opacity="0.36">
+    <path d="M0 86H1200M0 166H1200M0 246H1200M0 326H1200" stroke="#334155" stroke-width="1"/>
+    <path d="M126 0V420M246 0V420M366 0V420M486 0V420M606 0V420M726 0V420M846 0V420M966 0V420M1086 0V420" stroke="#334155" stroke-width="1"/>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.65">
+    <circle cx="256" cy="98" r="88" fill="#7C3AED"/>
+    <circle cx="941" cy="322" r="86" fill="#06B6D4"/>
+  </g>
+
+  <rect x="74" y="52" width="1052" height="316" rx="30" fill="url(#card)" stroke="url(#line)" stroke-width="2"/>
+  <rect x="97" y="75" width="1006" height="270" rx="22" fill="#020617" fill-opacity="0.42" stroke="#334155" stroke-opacity="0.7"/>
+
+  <g transform="translate(132 108)">
+    <rect x="0" y="0" width="160" height="38" rx="19" fill="#111827" stroke="#334155"/>
+    <circle cx="24" cy="19" r="6" fill="#22C55E"/>
+    <text x="42" y="25" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" letter-spacing="2">ONLINE</text>
+
+    <text x="0" y="105" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">Arianit Sylafeta</text>
+    <text x="2" y="151" fill="#A5B4FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="600">AI-native product builder</text>
+    <text x="2" y="188" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">agents / automation / ML experiments / developer tools</text>
+  </g>
+
+  <g transform="translate(802 95)">
+    <rect x="0" y="0" width="244" height="62" rx="18" fill="#111827" fill-opacity="0.88" stroke="#334155"/>
+    <text x="22" y="27" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="13" letter-spacing="1.5">CURRENT MODE</text>
+    <text x="22" y="48" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="700">ship the useful thing</text>
+
+    <rect x="0" y="82" width="244" height="62" rx="18" fill="#111827" fill-opacity="0.88" stroke="#334155"/>
+    <text x="22" y="109" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="13" letter-spacing="1.5">STACK ENERGY</text>
+    <text x="22" y="130" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="700">Python + TypeScript</text>
+
+    <rect x="0" y="164" width="244" height="62" rx="18" fill="#111827" fill-opacity="0.88" stroke="#334155"/>
+    <text x="22" y="191" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="13" letter-spacing="1.5">REPO THEME</text>
+    <text x="22" y="212" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="700">experiments into systems</text>
+  </g>
+
+  <path d="M132 320C250 262 336 342 452 288C566 235 619 249 732 291C841 332 931 284 1048 309" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.78"/>
+  <circle cx="452" cy="288" r="7" fill="#22D3EE"/>
+  <circle cx="732" cy="291" r="7" fill="#A78BFA"/>
+  <circle cx="1048" cy="309" r="7" fill="#F59E0B"/>
+</svg>
